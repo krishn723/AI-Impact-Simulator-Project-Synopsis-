@@ -204,8 +204,3 @@ By the end of this project, a working platform will exist where any number of AI
 
 1. MDPI Research Paper — *Emergent Intelligence Evaluation Framework*: https://www.mdpi.com/2673-2688/6/8/190
 2. Emergence AI — *Emergence World* (GitHub): https://github.com/EmergenceAI/Emergence-World
-3. Full Project Explanation and Source Code (this repository): `<add-your-repo-link-here>`
-
-> A QR code linking to a consolidated references page (containing all three links above) is included on the final page of this synopsis for quick access.
-
----
