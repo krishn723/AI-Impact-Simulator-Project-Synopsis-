@@ -77,6 +77,3 @@ Combines AI/LLMs, multi-agent systems, software engineering, databases, web deve
 - Emergence AI — [Emergence World: A Laboratory for Evaluating Long-Horizon Agent Autonomy](https://github.com/EmergenceAI/Emergence-World)
 - [AI Impact on Modern Society, MDPI](https://www.mdpi.com/3452324)
 
-## Disclaimer
-
-This project describes a controlled research and evaluation environment. All simulated incidents (including conflict/crime events) are abstract, measurable data points for AI safety research — the platform is not intended to reproduce or teach real-world harmful behaviour.
