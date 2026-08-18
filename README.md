@@ -1,11 +1,6 @@
-# AI Real-World Simulation Platform
+# AI Impact Simulation Platform
 
 **A Multi-Agent Virtual Society for Real-World Behaviour and Safety Evaluation of AI Models**
-
-![Status](https://img.shields.io/badge/status-in%20development-yellow)
-![Type](https://img.shields.io/badge/type-final--year%20project-blue)
-![Focus](https://img.shields.io/badge/focus-AI%20Safety%20%7C%20Multi--Agent%20Systems-purple)
-
 ---
 
 ## Overview
